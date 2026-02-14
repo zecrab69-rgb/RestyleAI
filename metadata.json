@@ -1,0 +1,7 @@
+{
+  "name": "RestyleAI - Furniture Makeover",
+  "description": "Virtual furniture restyling using Gemini 2.5 Flash Image. Upload your furniture and apply trendy patinas and styles.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
